@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 build with CLAND/LLD version 20
 自己鼓捣玩的分支，不要clone，不属于正式分支，仅供自己的突发奇想
 =======
+=======
+#DO NOT USE abl_original.efi It is just intermediate result from patcher which contains the official abl efi progress which will boot efisp causing bootloop
+
+>>>>>>> aaa8cd9 (Add warning for abl_original.efi usage)
 # build with CLAND/LLD version 20
 # GBL Root Canoe
 
